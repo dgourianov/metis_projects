@@ -1,1 +1,1 @@
-
+Project 1 uses NYC subway data to help a sports drink company  find the best subway stations to place promotional street teams. It was group project, mostly EDA , focused on Python, Pandas, Matplotlib and Seaborn.
