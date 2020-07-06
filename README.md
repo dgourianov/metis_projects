@@ -5,7 +5,7 @@ This repository consists of data science projects and programming code that I wo
 1. [Life Expectancy Accross Countries Project](https://github.com/dgourianov/metis_projects/tree/master/Project_2_life_expectancy) uses linear regression to identify major determinants of life expectancy in different countries
 1. [Instacart](https://github.com/dgourianov/metis_projects/tree/master/Project_3_instacart)  - Predicting Whether a Product Will Be Reordered
 Predicted repeated orders by consumers using classification algorithms (XGBoost, Random Forest, Logistic Regression)
-1. Assessing the 2020 Democratic Presidential Candidates using NLP
+1. [Assessing the 2020 Democratic Presidential Candidates using NLP](https://github.com/dgourianov/metis_projects/tree/master/Project_4_debates)  
 Applied Topic Modeling, Sentiment Analysis and Cosine Similarity to the transcripts of speeches of six candidates
 1. Food Image Classification Using Deep Learning Algorithms Built a Convolutional Neural Network model to classify 107 categories of food images. Performed model training and hyperparameter optimization on Google Cloud Platform
 
