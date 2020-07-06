@@ -1,7 +1,7 @@
 # Projects completed at Metis data science bootcamp
 This repository consists of data science projects and programming code that I worked on at the Spring 2020 cohort.
 
-1. MTA Project uses NYC subway data to help a sports drink maker find the best subway stations to place promotional teams
+1. [MTA Project](https://github.com/dgourianov/metis_projects/tree/master/Project_1_mta)  uses NYC subway data to help a sports drink maker find the best subway stations to place promotional teams
 1. Built a linear regression model to identify major determinants of life expectancy in different countries
 1. Instacart - Predicting Whether a Product Will Be Reordered
 Predicted repeated orders by consumers using classification algorithms (XGBoost, Random Forest, Logistic Regression)
